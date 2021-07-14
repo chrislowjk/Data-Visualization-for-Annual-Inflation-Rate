@@ -4,7 +4,7 @@ Illustrated the trend of Singapore's inflation rate through the use of interacti
 
 [Annual Inflation Rate](https://theboywhoprocrastinates.github.io/docs/inflation.html)
 
-[How Much has Prices of Goods and Services Changed over the Last 20 years?](https://theboywhoprocrastinates.github.io/docs/price_change.html)
+[Change in Price of Consumer Good over the past 20 years](https://theboywhoprocrastinates.github.io/docs/price_change.html)
 
 [Transport](https://theboywhoprocrastinates.github.io/docs/transport.html)
 
